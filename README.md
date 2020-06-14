@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-Author: Your name here
+Author: Ashwuni Kumar
